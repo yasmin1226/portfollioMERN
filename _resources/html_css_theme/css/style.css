@@ -333,7 +333,7 @@ button {
 /* Landing Page */
 .landing {
   position: relative;
-  background: url('https://image.freepik.com/free-vector/blogging-illustration-concept_114360-788.jpg')
+  background: url('../img/blogging-illustration-concept_114360-788.jpg')
     no-repeat center center/cover;
   height: 100vh;
 }
